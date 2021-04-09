@@ -1,6 +1,8 @@
 # web_test
 
-Install
+Github Page: https://bianpeter.github.io/web_test/web_test/build/
+
+#Installed
 
 npm install node-sass --save
 
